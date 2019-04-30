@@ -1,9 +1,4 @@
-This is my first repo.
-There's no information to put here.
-An additional line.
-**That's all**
-That is all.
-![Alt Text](url)
+![its me](BlogImage.jpg)
 # Influencer Marketing
 Most people live on social media, it’s a way to connect with friends and family and stay up to date on everything from politics to your favorite celebrities. 
 ## What is an Influencer? :bulb:
